@@ -94,10 +94,11 @@
 // document.body.appendChild(ne);
 
 
-const ne = document.createElement("p");
-ne.innerText = "Dynamic Text";
-const secondDiv = document.getElementsByTagName("p");
-secondDiv[0].appendChild(ne);
+// const ne = document.createElement("p");
+// ne.innerText = "Dynamic Text";
+// const secondDiv = document.getElementsByTagName("p");
+// secondDiv[0].appendChild(ne);
+
 
 
 
